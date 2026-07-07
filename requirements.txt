@@ -1,0 +1,9 @@
+numpy
+scipy
+scikit-learn
+pandas
+torch
+monai
+nibabel
+scikit-image
+wfdb
